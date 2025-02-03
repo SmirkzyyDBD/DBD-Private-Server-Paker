@@ -1,4 +1,3 @@
-:: credits - smirkzyy
 @echo off
 title Create Pak
 
